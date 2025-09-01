@@ -1,0 +1,44 @@
+ Topics + Explanations
+
+1. Machine Learning Basics for Analytics
+
+ML helps automate data-driven predictions and insights.
+
+Analysts often use supervised learning (classification, regression) and unsupervised learning (clustering).
+
+Example: Predicting customer churn using past purchase behavior.
+
+
+2. Linear Regression for Prediction
+
+A statistical method to model the relationship between a dependent variable (Y) and independent variables (X).
+
+Formula: Y = a + bX + e (where a is intercept, b is slope).
+
+Example: Predicting sales based on advertising spend.
+
+
+3. Logistic Regression for Classification
+
+Used when the outcome is categorical (Yes/No, 0/1).
+
+Outputs probabilities between 0 and 1.
+
+Example: Classifying whether an email is spam or not.
+
+
+4. Clustering with K-Means
+
+An unsupervised learning algorithm to group data into clusters.
+
+Example: Customer segmentation (high-value, medium-value, low-value).
+
+
+5. Case Study: Predicting Employee Attrition
+
+Using HR data (age, salary, satisfaction, work hours) to predict whether an employee is likely to leave.
+
+Techniques: Logistic Regression + K-Means for segmentation.
+
+Business Value: Helps HR retain talent and reduce hiring costs.
+
